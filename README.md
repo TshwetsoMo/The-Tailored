@@ -134,13 +134,13 @@ For development and testing, a React App is required (`Terminal --> New Terminal
 Here are a couple of ways to clone this repo:
 
 1.  GitHub Desktop </br>
-    Enter `https://github.com/Pantonym/DV200_Term4_.git` into the URL field and press the `Clone` button.
+    Enter `https://github.com/TshwetsoMo/the-tailored.git` into the URL field and press the `Clone` button.
 
 2.  Clone Repository </br>
     Run the following in the command-line to clone the project:
 
     ```sh
-    git clone https://github.com/Pantonym/DV200_Term4_.git
+    git clone https://github.com/TshwetsoMo/the-tailored.git
     ```
 The following installations are required if you do not clone the repository:
 * Click on Terminal and open a new terminal
@@ -417,20 +417,20 @@ We chose a theme matching the Open Window Institute's theme, as the application 
 ### Development Documents
 <!-- Style Sheet -->
 * Style Sheet
-<img src="/final/images/Style%20Sheet.png" alt="StyleSheet" style="height: 800px">
+<img src="final\images\Style Sheet.png" alt="StyleSheet" style="height: 800px">
 
 <!-- Object Mapping -->
 * Object Mapping
-<img src="/final/images/Object%20Mapping.png" alt="Object Mapping" style="height: 600px">
+<img src="final\images\Object Mapping.png" alt="Object Mapping" style="height: 600px">
 
 <!-- Wireframes -->
 * Wireframes
 Home Page
-<img src="/final/wireframes/Home.png" alt="Home" style="width: 700px"/>
+<img src="final\wireframes\Home.png" alt="Home" style="width: 700px"/>
 User Profile Page
-<img src="/final/wireframes/User%20Profile.png" alt="Profile" style="width: 700px"/>
+<img src="final\wireframes\User Profile.png" alt="Profile" style="width: 700px"/>
 Question Editor Page
-<img src="/final/wireframes/Question%20Text%20Editor.png" alt="TextEditor" style="width: 700px"/>
+<img src="final\wireframes\Question Text Editor.png" alt="TextEditor" style="width: 700px"/>
 
 <!-- Highlights -->
 #### Highlights
@@ -455,7 +455,7 @@ Question Editor Page
 ## Final Outcome
 <!-- MOCKUPS -->
 ### Mockups
-<img src="/final/mockups/Hero.png" alt="Mockup" style="height: 600px"/>
+<img src="final\mockups\Hero.png" alt="Mockup" style="height: 600px"/>
 <img src="/final/mockups/Profile.png" alt="Mockup" style="height: 600px"/>
 <img src="/final/mockups/QuestionsHome.png" alt="Mockup" style="height: 600px"/>
 <img src="/final/mockups/Question.png" alt="Mockup" style="height: 600px"/>
