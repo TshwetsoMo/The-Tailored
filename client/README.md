@@ -8,7 +8,7 @@
 
 <!-- Logo and link to repository -->
 <p align="center">
-  <a href="https://github.com/Pantonym/DV200_Term4">
+  <a href="https://github.com/TshwetsoMo/the-tailored.git">
     <img src="client/src/Assets/Images/Logo.svg" width="200px">
   </a>
 </p>
